@@ -3,7 +3,7 @@
 /node_modules
 
 # env
-/learnNestJs/.development.env
+/.development.env
 
 # Logs
 logs
