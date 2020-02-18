@@ -9,7 +9,7 @@ async function bootstrap() {
   app.useGlobalPipes(new ValidationPipe());
 
   const options = new DocumentBuilder()
-      .setTitle('CRUD')
+      .setTitle('LEARN NEST.JS')
       .setDescription('learn nest.js')
       .setVersion('1.0')
       .addTag('CRUD')
